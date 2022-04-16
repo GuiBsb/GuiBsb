@@ -1,12 +1,12 @@
 <img src="https://img.gifmagazine.net/gifmagazine/images/2361270/original.gif" width="30px"> Inovação - Desenvolvedor - Tecnologia - Gamer <img src="https://img.gifmagazine.net/gifmagazine/images/2361270/original.gif" width="30px">
 
-𝑺𝒐𝒖 𝐚𝐫𝐭𝐡𝐮𝐫 𝒂𝒕𝒖𝒂𝒍𝒎𝒆𝒏𝒕𝒆 𝒖𝒎 𝒂𝒔𝒑𝒊𝒓𝒂𝒏𝒕𝒆 𝒂 𝒅𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒅𝒐𝒓 𝒅𝒆 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒆 𝒄𝒐𝒎𝒑𝒖𝒕𝒂𝒅𝒐𝒓. 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒔𝒂𝒅𝒐 𝒆𝒎 𝒕𝒓𝒂𝒃𝒂𝒍𝒉𝒂𝒓 𝒄𝒐𝒎 𝒃𝒂𝒄𝒌-𝒆𝒏𝒅, 𝑨𝑷𝑰'𝒔, 𝒃𝒂𝒏𝒄𝒐𝒔 𝒅𝒆 𝒅𝒂𝒅𝒐𝒔 𝒆 𝒂𝒕𝒖𝒂𝒍𝒎𝒆𝒏𝒕𝒆 𝒂𝒑𝒓𝒆𝒏𝒅𝒆𝒏𝒅𝒐 𝒔𝒐𝒃𝒓𝒆 𝒂 𝒕𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂 𝑫𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑳𝒆𝒅𝒈𝒆𝒓. 𝑶𝒄𝒂𝒔𝒊𝒐𝒏𝒂𝒍𝒎𝒆𝒏𝒕𝒆, 𝒑𝒂𝒓𝒕𝒊𝒄𝒊𝒑𝒐 𝒅𝒆 𝑯𝒂𝒄𝒌𝒂𝒕𝒉𝒐𝒏𝒔 𝒃𝒖𝒍𝒃 𝒆 𝒕𝒆𝒏𝒉𝒐 𝒖𝒎𝒂 𝒓𝒆𝒍𝒂𝒄𝒂𝒐 𝒅𝒆 𝒂𝒎𝒐𝒓 / 𝒐𝒅𝒊𝒐 𝒄𝒐𝒎 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒏𝒆𝒖𝒕𝒓𝒂𝒍_𝒇𝒂𝒄𝒆.
 
-- CPU: i5 - 9400f
+
+- CPU: i5-5200
 - Mainboard: H310M-E 
 - GPU: GTX 1050 2GB
 - Mem: 16gb - 2660mhz
-- OS: Windows 11
+- OS: Windows/linux
 
 <p align="center" >
  <a href="https://graphql.org/">
@@ -63,9 +63,3 @@
 
 ![Snake animation](https://github.com/limathiagos/limathiagos/blob/output/github-contribution-grid-snake.svg)  
   
-[discord]: https://discord.gg/devone
-[youtube]: https://www.youtube.com/channel/UCMJqwEZTyCAIt-vtTZ0QgXQ?view_as=subscriber
-[Facebook]: https://www.facebook.com/maiki.cracker.1
-[Whatsapp]: https://wa.me/message/2C2AT3EHOZNQK1
-[instagram]: https://www.instagram.com/arthur_ferreira061_dev/
-[webdevplaylist]: https://youtu.be/-wuc6XAyHZI

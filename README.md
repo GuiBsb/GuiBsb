@@ -31,10 +31,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="c#" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />]
 [<img align="left" alt="sql" width="26px" src="https://img.icons8.com/color/48/000000/sql.png" />]
-
 <br />
-<br />
-
   <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ntsd&show_icons=true&theme=blue-green&hide_title=true&line_height=26" />
 </a>

@@ -1,6 +1,3 @@
-<img src="https://img.gifmagazine.net/gifmagazine/images/2361270/original.gif" width="30px"> Inovação - Desenvolvedor - Tecnologia - Gamer <img src="https://img.gifmagazine.net/gifmagazine/images/2361270/original.gif" width="30px">
-
-
 
 - CPU: i5-5200
 - Mainboard: H310M-E 
